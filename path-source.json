@@ -1,4 +1,7 @@
 {
+    "metadata": {
+        "updateTime": "2024-11-29"
+    },
     "filmoFlix": {
         "protocol": "https",
         "baseUrl": "www.filmoflix.is",
