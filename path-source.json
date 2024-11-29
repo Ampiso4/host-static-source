@@ -1,4 +1,20 @@
 {
-    "filmflix": "===================================",
+    "filmoFlix": {
+        "protocol": "https",
+        "baseUrl": "www.filmoflix.is",
+        "pages": {
+            "films": {
+                "this": "filmstreaming",
+                "gender": "genre"
+            },
+            "series": {
+                "this": "seriestreaming",
+                "gender": "genre"
+            },
+            "search": {
+                "this": "search"
+            }
+        }
+    },
     "voirAnime": "==================================="
 }
